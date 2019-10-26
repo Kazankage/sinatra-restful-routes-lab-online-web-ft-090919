@@ -2,4 +2,3 @@
 class Recipe < ActiveRecord::Base
 
 end
-© 2019 GitHub, Inc.
